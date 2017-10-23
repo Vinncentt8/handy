@@ -152,3 +152,40 @@ section a{
 	color: black;
 	font-weight: bold;
 }
+
+#humanfactor{
+	color: blue;
+}
+
+#humanfactor:hover{
+
+	
+}
+
+.tooltip:hover .tooltiptekst{
+	visibility: visible;
+
+
+}
+
+.tooltip .tooltiptekst{
+	visibility: hidden;
+	width: 178px;
+	background-color: white;
+	position: absolute;
+	border: 2px solid;
+    border-radius: 10px;
+    left:  -8px;
+    top: 18px;
+    padding: 5px;
+
+
+}
+
+.tooltip{
+	color: blue;
+}
+
+.tooltiptekst{
+	color: black;
+}
