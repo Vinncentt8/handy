@@ -22,7 +22,6 @@ body {
 }
 
 #saw:hover{
-	position: absolute;
 	top: 180px;
 	left: 200px;
 }
@@ -34,7 +33,6 @@ body {
 }
 
 #hammer:hover{
-	position: absolute;
 	top: 40px;
 	left: 790px;
 }
@@ -45,7 +43,6 @@ body {
 	left: 870px;
 }
 #pincers:hover{
-	position: absolute;
 	top: 320px;
 	left: 870px;
 }
@@ -188,4 +185,5 @@ section a{
 
 .tooltiptekst{
 	color: black;
+
 }
